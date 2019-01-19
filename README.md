@@ -1,27 +1,21 @@
 # IT1150 - Introduction to Web Programming
 
 ### Description:
-Introduction to concepts important for popular cybersecurity scripting languages, including basic data types, control structures, regular expressions, input/output, and textual analysis. One or more common scripting languages relevant to the field of cybersecurity will be utilized in the course.
+Build Web pages using current technologies including but not limited to HTML, cascading style sheets and JavaScript using an HTML editor. Focus is on developing a foundation in web programming.
 
 Lecture: 2 hours.
 Laboratory: 2 hours
 Credits: 3 Credits
 
-Prerequisite(s): IT-1050 Programming Logic.
+Prerequisite(s):  IT-1025 Information Technology Concepts for Programmers, or concurrent enrollment.
 
-Book
-Introduction to Scripting: National CyberWatch Center
-Bradley N. Miller, David L. Ranum
-ISBN: 9781284108071
-Jones & Bartlet - https://www.jblearning.com/catalog/productdetails/9781284108071
-VitalSource - https://www.vitalsource.com/products/introduction-to-scripting-national-cyberwatch-bradley-n-miller-david-l-v9781284108071
-National Cyberwatch Center - https://www.nationalcyberwatch.org/resource/introduction-scripting-e-book/
+# Book
 
-Lab Assignments
+# Lab Assignments
 Lab 1
 
-In-Class Examples
+# In-Class Examples
 Week 1, Class 1
 
-How-To
+# How-To
 Get started with VS Code, Python, and GitHub
