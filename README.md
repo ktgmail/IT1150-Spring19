@@ -1,6 +1,6 @@
-# IT1150-KTamerlano-Spring19
-IT 2750 - Scripting Fundamentals for Cybersecurity
-Description:
+# IT1150 - Introduction to Web Programming
+
+### Description:
 Introduction to concepts important for popular cybersecurity scripting languages, including basic data types, control structures, regular expressions, input/output, and textual analysis. One or more common scripting languages relevant to the field of cybersecurity will be utilized in the course.
 
 Lecture: 2 hours.
