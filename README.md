@@ -10,9 +10,10 @@ Credits: 3 Credits
 Prerequisite(s):  IT-1025 Information Technology Concepts for Programmers, or concurrent enrollment.
 
 # Book
+MURACH'S HTML5+CSS3, 4th Edition, ISBN: 9781943872268
 
 # Lab Assignments
-Lab 1
+[Lab 1](Labs/Lab1/Lab1Instructions.md)
 
 # In-Class Examples
 Week 1, Class 1
