@@ -18,4 +18,4 @@ Lab 1
 Week 1, Class 1
 
 # How-To
-Get started with VS Code, Python, and GitHub
+Get started with VS Code and GitHub
