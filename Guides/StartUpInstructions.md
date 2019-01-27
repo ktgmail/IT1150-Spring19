@@ -15,10 +15,10 @@ First change to the directory where you want to store a local copy of your sourc
 
 Note: cloning will create a copy of your remote repository on your computer. It will create a folder with the same name as your repository.
 
-First copy your repository URL. For example, our class repository has the URL: https://github.com/jamesleasure/2019SpringIT2750. I'll use this in place of your repository link for the following examples.
+First copy your repository URL. For example, our class repository has the URL: https://github.com/ktamerl4/IT1150-KTamerlano-Spring19. I'll use this in place of your repository link for the following examples.
 
 ```
-git clone https://github.com/jamesleasure/2019SpringIT2750
+git clone https://github.com/ktamerl4/IT1150-KTamerlano-Spring19
 ```
 
 ### Configure user name and email address for local git cache
