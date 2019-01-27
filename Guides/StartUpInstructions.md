@@ -14,7 +14,7 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
 
-### Clone your GitHub repository
+### Clone your GitHub repository - Make a local copy on your computer.  If using a lab computer delete the file once commits are made.
 First change to the directory where you want to store a local copy of your source code files: Open a command prompt. Press the Windows key and search for "cmd". Press enter to open the command prompt. From here we'll enter command prompt calls to clone your repository.
 
 Note: cloning will create a copy of your remote repository on your computer. It will create a folder with the same name as your repository.
