@@ -1,8 +1,8 @@
-# IT1150 Lab 1 Instructions
+## IT1150 Lab 1
 
 There are two parts of this lab, one is written (edit this readme.md file) and the other is hands-on (edit .html and .css files.) 
 
-## Executive Summary
+### Executive Summary
 "Include your executive summary here"
 
 ### Part 1 Written:
@@ -25,5 +25,5 @@ There are two parts of this lab, one is written (edit this readme.md file) and t
    4. CSS Link
    5. List - ordered or unordered
   
-## Conclusion:
+### Conclusion:
 "Type your lab conclusion here"
