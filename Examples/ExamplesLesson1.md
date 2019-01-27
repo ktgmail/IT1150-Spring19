@@ -1,6 +1,6 @@
 ### Lesson 1 Topics and Examples:
 
-1. [Basic Tags](https://github.com/ktamerl4/IT1150-Spring19/blob/master/Examples/BasicTags.html)
+1. [Basic Tags](BasicTags.html)
 2. [Links](WorkingWithHyperlinks.html) 
-3. Images
-4. Linking CSS and HTML
+3. [Images](WorkingWithImages.html)      
+4. [Linking CSS and HTML](LinkingCSSandHTML.html)
