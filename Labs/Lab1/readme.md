@@ -19,8 +19,8 @@ There are two parts of this lab, one is writted (edit your readme.md file) and t
 2. Pick a theme for your site. Find at least one image and one external site that you would like to include.
 
 3. Using the semantic elements: header, main and footer edit the included .html file to create your web page. Be sure to include the folowing tags in your page:
-  1. h1/6, p, line break
-  2. Anchor
-  3. Image
-  4. CSS Link
-  5. List - ordered or unordered
+   1. h1/6, p, line break
+   2. Anchor
+   3. Image
+   4. CSS Link
+   5. List - ordered or unordered
