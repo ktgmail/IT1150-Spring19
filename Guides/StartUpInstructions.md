@@ -10,6 +10,7 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 ### Fork a Copy of our class GitHub repo
 1. Log into your GitHub account use the search box to find our class respoitory:IT1150-Spring19
 2. Select the repository and click the "Fork" in the upper right corner of the GitHub window
+3. [Understanding Forking](https://help.github.com/articles/fork-a-repo/)
 
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
