@@ -7,6 +7,10 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 ### Create a GitHub account
 [GitHub](https://github.com/)
 
+### Fork a Copy of our class GitHub repo
+1. Log into your GitHub account use the search box to find our class respoitory: IT1150-KTamerlano-Spring19
+2. Select the repository and click the "Fork" in the upper right corner of the GitHub window
+
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
 
