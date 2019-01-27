@@ -16,7 +16,7 @@ MURACH'S HTML5+CSS3, 4th Edition, ISBN: 9781943872268
 [Lab 1](Labs/Lab1/readme.md)
 
 # Examples
-[Week 1, Class 1](Examples/Example1.md)
+[Lesson 1](Examples/Example1.md)
 
 # How-To
 * [Get started with VS Code and GitHub](Guides/StartUpInstructions.md)
