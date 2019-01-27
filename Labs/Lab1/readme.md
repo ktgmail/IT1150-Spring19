@@ -1,8 +1,8 @@
-# IT1150 Lab 1 Instructions
+## IT1150 Lab 1
 
-There are two parts of this lab, one is writted (edit your readme.md file) and the other is hands-on (edit .html and .css files.) 
+There are two parts of this lab, one is written (edit this readme.md file) and the other is hands-on (edit .html and .css files.) 
 
-## Executive Summary
+### Executive Summary
 "Include your executive summary here"
 
 ### Part 1 Written:
@@ -16,11 +16,16 @@ There are two parts of this lab, one is writted (edit your readme.md file) and t
 ### Part 2 Hands-On - I made this change:
 1. Open your cloned repository in Visual Studio Code and traverse to the "Lab1" Files.  Take a screen shot of your success and name the file "Lab1Part2No1" Upload your screen shot to the Lab1 directory
 
-2. Pick a theme for your site. Find at least one image and one external site that you would like to include.
+2. Pick a theme for your site. Find at least one image and one external site that you would like to include. Upload the image to your repository (locally and then "push" or in GitHub)
 
 3. Using the semantic elements: header, main and footer edit the included .html file to create your web page. Be sure to include the folowing tags in your page:
-    1. h1/6, p, line break
-    2. Anchor
-    3. Image
-    4. CSS Link
-    5. List - ordered or unordered
+   1. h1/6, p, line break
+   2. Anchor
+   3. Image
+   4. CSS Link
+   5. List - ordered or unordered
+   
+4. Take a screen shot of your web page in the browser and name the file "Lab1Part2No3" Upload your image to the Lab1 directory
+  
+### Conclusion:
+"Type your lab conclusion here"
