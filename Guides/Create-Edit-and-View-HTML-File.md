@@ -3,4 +3,4 @@
 2. Be sure to name your file and include the file extention .html for example MyPage.html
 3. Find your file using the file manager, right-click on it and pick "open with: Google Chrome"
 
-Format: ![Browser and Editor](IT1150-Spring19/images/CreateEditView.PNG)
+![alt text](IT1150-Spring19/images/CreateEditView.PNG "Browser and Editor views of HTML file")
