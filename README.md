@@ -15,7 +15,7 @@ MURACH'S HTML5+CSS3, 4th Edition, ISBN: 9781943872268
 # Lab Assignments
 [Lab 1](Labs/Lab1/readme.md)
 
-# In-Class Examples
+# Examples
 [Week 1, Class 1](Examples/Example1.md)
 
 # How-To
