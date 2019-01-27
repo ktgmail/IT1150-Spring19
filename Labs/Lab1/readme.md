@@ -24,3 +24,6 @@ There are two parts of this lab, one is written (edit this readme.md file) and t
    3. Image
    4. CSS Link
    5. List - ordered or unordered
+  
+## Conclusion:
+"Type your lab conclusion here"
