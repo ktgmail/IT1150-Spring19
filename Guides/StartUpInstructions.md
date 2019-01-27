@@ -4,6 +4,9 @@
 ### Download Visual Studio Code
 Download Visual Studio Code from https://code.visualstudio.com/download
 
+### Create a GitHub account
+[GitHub](https://github.com/)
+
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
 
