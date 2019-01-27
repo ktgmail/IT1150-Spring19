@@ -4,3 +4,4 @@
 2. [Links](WorkingWithHyperlinks.html) 
 3. [Images](WorkingWithImages.html)      
 4. [Linking CSS and HTML](LinkingCSSandHTML.html)
+5. [Semantic Elements](
