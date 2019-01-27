@@ -10,11 +10,14 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 ### Fork a Copy of our class GitHub repo
 1. Log into your GitHub account use the search box to find our class respoitory:IT1150-Spring19
 2. Select the repository and click the "Fork" in the upper right corner of the GitHub window
+3. [Understanding Forking](https://help.github.com/articles/fork-a-repo/)
 
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
 
-### Clone your GitHub repository - Make a local copy on your computer.  If using a lab computer delete the file once commits are made.
+### Clone your GitHub repository
+"Cloning" a repository means you are making a local copy on your computer.  If using a lab computer delete the file once commits are made.
+
 First change to the directory where you want to store a local copy of your source code files: Open a command prompt. Press the Windows key and search for "cmd". Press enter to open the command prompt. From here we'll enter command prompt calls to clone your repository.
 
 Note: cloning will create a copy of your remote repository on your computer. It will create a folder with the same name as your repository.
