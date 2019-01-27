@@ -10,5 +10,5 @@ There are two parts of this lab, one is writted (edit your readme.md file) and t
 #### Usability, Cross-Browser Compatibility, Accessibility, Search Engine Optimization and Responsive Web Design
 "Delete my instructions and replace with your response: Briefly (about a paragraph) explain each of the terms above"
 
-### Part 2 Hands-On:
+### Part 2 Hands-On - I made this change:
 1. Open your cloned repository in Visual Studio Code and traverse to the "Lab1" Files.  Take a screen shot of your success and name the file "Lab1Part2No1" Upload your screen shot to the Lab1 directory
