@@ -8,7 +8,7 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 [GitHub](https://github.com/)
 
 ### Fork a Copy of our class GitHub repo
-1. Log into your GitHub account use the search box to find our class respoitory: IT1150-KTamerlano-Spring19
+1. Log into your GitHub account use the search box to find our class respoitory:IT1150-Spring19
 2. Select the repository and click the "Fork" in the upper right corner of the GitHub window
 
 ### Install GitHub
@@ -19,13 +19,13 @@ First change to the directory where you want to store a local copy of your sourc
 
 Note: cloning will create a copy of your remote repository on your computer. It will create a folder with the same name as your repository.
 
-First copy your repository URL. For example, our class repository has the URL: https://github.com/ktamerl4/IT1150-KTamerlano-Spring19. I'll use this in place of your repository link for the following examples.
+First copy your repository URL. For example, our class repository has the URL: https://github.com/ktamerl4/IT1150-Spring19. I'll use this in place of your repository link for the following examples.
 
 ```
-git clone https://github.com/ktamerl4/IT1150-KTamerlano-Spring19
+git clone https://github.com/ktamerl4/IT1150-Spring19
 ```
 
-### Configure user name and email address for local git cache
+### Configure user name and email address for local git cache - this portion is for your personal computer only
 Change directories into the folder that was just created for your cloned repository. Example:
 ```
 cd repository_folder_name
