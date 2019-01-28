@@ -16,7 +16,7 @@ There are two parts of this lab, one is written (edit this readme.md file) and t
 ### Part 2 Hands-On:
 1. Open your cloned repository in Visual Studio Code and traverse to the "Lab1" Files.  Take a screen shot of your success and name the file "Lab1Part2No1" Upload your screen shot to the Lab1 directory
 
-2. Pick a theme for your site. Find at least one image and one external site that you would like to include. Upload the image to your repository (locally and then "push" or in GitHub)
+2. Pick a theme for your site. Find at least one image and one external site that you would like to include. Upload the image to your repository (locally and then "push" it to GitHub / conversly "pull" changes on GitHub to your local repo)
 
 3. Using the semantic elements: header, main and footer edit the included .html file to create your web page. Be sure to include the folowing tags in your page:
    1. h1/6, p, line break
