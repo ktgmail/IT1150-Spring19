@@ -21,6 +21,3 @@ MURACH'S HTML5+CSS3, 4th Edition, ISBN: 9781943872268
 # How-To
 * [Get started with VS Code and GitHub](Guides/StartUpInstructions.md)
 * [Create, Edit and View and HTML file](Guides/CreateEditView.md)
-
-New Information
-
