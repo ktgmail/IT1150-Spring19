@@ -16,6 +16,16 @@ Download Visual Studio Code from https://code.visualstudio.com/download
 ### Install GitHub
 Install the GitHub command line tool. https://git-scm.com/
 
+### Create a class repository
+1. Click drop down arrow next to "+" in upper right corner
+2. Select "New repository"
+3. Name your repository: IT1150FirstLast
+4. Select "Private"
+5. Select "Initalize with a README file
+6. "Create Repository"
+7. Select "Settings" from the menu bar and then "Collaborators"
+8. Search ktamerl4 and add me as a collaborator
+
 ### Clone your GitHub repository
 "Cloning" a repository means you are making a local copy on your computer.  If using a lab computer delete the folder once commits are made.
 
