@@ -1,5 +1,5 @@
 
-# IT1150 - Introduction to Web Programming - Spring 19
+# IT1150 - Introduction to Web Programming
 
 ### Description:
 Build Web pages using current technologies including but not limited to HTML, cascading style sheets and JavaScript using an HTML editor. Focus is on developing a foundation in web programming.
