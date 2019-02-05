@@ -1,5 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(80, 161, 172);
+}
+
+footer {
+  background-color: rgb(105, 80, 172);
 }
 
 h1 {
